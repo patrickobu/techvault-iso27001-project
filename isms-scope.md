@@ -1,5 +1,10 @@
 # ISMS Scope
 
+![Organisation](https://img.shields.io/badge/Organisation-TechVault%20Ltd-blue)
+![Standard](https://img.shields.io/badge/Standard-ISO%2027001%3A2022-purple)
+![Document](https://img.shields.io/badge/Document-ISMS%20Scope-teal)
+![Status](https://img.shields.io/badge/Status-Approved-brightgreen)
+
 **Organisation:** TechVault Ltd
 **Standard:** ISO/IEC 27001:2022
 **Version:** 1.0
