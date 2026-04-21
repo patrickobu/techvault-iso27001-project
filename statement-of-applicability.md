@@ -1,5 +1,10 @@
 # Statement of Applicability (SoA)
 
+![Organisation](https://img.shields.io/badge/Organisation-TechVault%20Ltd-blue)
+![Standard](https://img.shields.io/badge/Standard-ISO%2027001%3A2022-purple)
+![Applicable](https://img.shields.io/badge/Applicable%20Controls-85-brightgreen)
+![Excluded](https://img.shields.io/badge/Excluded-8-lightgrey)
+
 **Organisation:** TechVault Ltd
 **Standard:** ISO/IEC 27001:2022 Annex A
 **Version:** 1.0
