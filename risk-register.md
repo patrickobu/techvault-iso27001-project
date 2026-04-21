@@ -1,5 +1,11 @@
 # Risk Register
 
+![Organisation](https://img.shields.io/badge/Organisation-TechVault%20Ltd-blue)
+![Standard](https://img.shields.io/badge/Standard-ISO%2027001%3A2022-purple)
+![Risks](https://img.shields.io/badge/Total%20Risks-25-orange)
+![Critical](https://img.shields.io/badge/Critical-3-red)
+![High](https://img.shields.io/badge/High-8-orange)
+
 **Organisation:** TechVault Ltd
 **Document:** ISO 27001:2022 Information Security Risk Register
 **Version:** 1.0
