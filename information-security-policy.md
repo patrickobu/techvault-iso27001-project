@@ -1,5 +1,10 @@
 # Information Security Policy
 
+![Organisation](https://img.shields.io/badge/Organisation-TechVault%20Ltd-blue)
+![Standard](https://img.shields.io/badge/Standard-ISO%2027001%3A2022-purple)
+![Approved By](https://img.shields.io/badge/Approved%20By-CEO-brightgreen)
+![Review](https://img.shields.io/badge/Review-Annual-orange)
+
 **Organisation:** TechVault Ltd
 **Document:** Top-Level Information Security Policy
 **Version:** 1.0
