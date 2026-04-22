@@ -71,15 +71,11 @@ Key components:
 
 | File | Description |
 |------|-------------|
-| `README.md` | This file — project overview |
-| `isms-scope.md` | ISMS scope definition and boundaries |
-| `information-security-policy.md` | TechVault's top-level security policy |
-| `risk-assessment.md` | Risk assessment methodology and results |
-| `risk-register.md` | 25 identified risks with ratings and treatments |
-| `statement-of-applicability.md` | All 93 Annex A controls assessed |
-| `internal-audit-report.md` | Internal ISMS audit findings |
-| `management-review.md` | Management review of ISMS performance |
-| `nonconformity-tracker.md` | Nonconformities and corrective actions |
+| [README.md](README.md) | This file — project overview |
+| [isms-scope.md](isms-scope.md) | ISMS scope definition and boundaries |
+| [information-security-policy.md](information-security-policy.md) | TechVault top-level security policy |
+| [risk-register.md](risk-register.md) | 25 identified risks with ratings and treatments |
+| [statement-of-applicability.md](statement-of-applicability.md) | All 93 Annex A controls assessed |
 
 ---
 
