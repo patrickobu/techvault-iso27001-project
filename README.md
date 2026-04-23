@@ -103,6 +103,8 @@ TechVault's risk assessment identified 25 information security risks.
 | MODERATE | 10 | Treatment within 90 days |
 | LOW | 4 | Accept or treat opportunistically |
 
+![ISO 27001 risk heat map](techvault-iso27001-risk-heatmap.svg)
+
 ### Top 5 Risks
 
 | Risk | Level | Treatment |
